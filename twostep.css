@@ -25,3 +25,12 @@ header h2{
   font-family: "Bradley Hand", cursive;
   font-size: 140px;
 }
+header h3{
+  margin-top: 0;
+  background-color: rgb(136, 138, 140);
+  color: rgb(13, 9, 3);
+  text-align: center;
+  font-family: "Bradley Hand", cursive;
+  font-size: 140px;
+  margin-bottom: 0;
+}
